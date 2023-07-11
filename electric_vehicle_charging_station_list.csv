@@ -1,0 +1,203 @@
+no,region,type,power,service
+1,NDMC,DC-001,15 kW,Self Service
+2,NDMC,DC-001,15 kW,Self Service
+3,NDMC,DC-001,15 kW,Self Service
+4,NDMC,DC-001,15 kW,Self Service
+5,NDMC,DC-001,15 kW,Self Service
+6,NDMC,DC-001,15 kW,Self Service
+7,NDMC,DC-001,15 kW,Self Service
+8,NDMC,DC-001,15 kW,Self Service
+9,NDMC,DC-001,15 kW,Self Service
+10,NDMC,DC-001,15 kW,Self Service
+11,NDMC,DC-001,15 kW,Self Service
+12,NDMC,DC-001,15 kW,Self Service
+13,NDMC,DC-001,15 kW,Self Service
+14,NDMC,DC-001,15 kW,Self Service
+15,NDMC,DC-001,15 kW,Self Service
+16,NDMC,DC-001,15 kW,Self Service
+17,NDMC,DC-001,15 kW,Self Service
+18,NDMC,DC-001,15 kW,Self Service
+19,NDMC,DC-001,15 kW,Self Service
+20,NDMC,DC-001,15 kW,Self Service
+21,NDMC,DC-001,15 kW,Self Service
+22,NDMC,DC-001,15 kW,Self Service
+23,NDMC,DC-001,15 kW,Self Service
+24,NDMC,DC-001,15 kW,Self Service
+25,NDMC,DC-001,15 kW,Self Service
+26,NDMC,DC-001,15 kW,Self Service
+27,NDMC,DC-001,15 kW,Self Service
+28,NDMC,DC-001,15 kW,Self Service
+29,NDMC,DC-001,15 kW,Self Service
+30,NDMC,DC-001,15 kW,Self Service
+31,NDMC,DC-001,15 kW,Self Service
+32,NDMC,DC-001,15 kW,Self Service
+33,CMRL,DC-001,15 kW,Self Service
+34,CMRL,AC-001,10(3.3 kW each),Self Service
+35,Maha Metro,DC-001,15 kW,Self Service
+36,Maha Metro,AC-001,10(3.3 kW each),Self Service
+37,NDMC,DC-001,15 kW,Self Service
+38,NDMC,DC-001,15 kW,Self Service
+39,NDMC,DC-001,15 kW,Self Service
+40,NDMC,DC-001,15 kW,Self Service
+41,NDMC,DC-001,15 kW,Self Service
+42,NDMC,DC-001,15 kW,Self Service
+43,NDMC,DC-001,15 kW,Self Service
+44,NDMC,DC-001,15 kW,Self Service
+45,NDMC,DC-001,15 kW,Self Service
+46,NDMC,DC-001,15 kW,Self Service
+47,NDMC,DC-001,15 kW,Self Service
+48,NDMC,DC-001,15 kW,Self Service
+49,Noida Authority,DC-001,15 kW,Self Service
+50,Noida Authority,DC-001,15 kW,Self Service
+51,NDMC,DC-001,15 kW,Self Service
+52,NDMC,DC-001,15 kW,Self Service
+53,NDMC,DC-001,15 kW,Self Service
+54,NDMC,DC-001,15 kW,Self Service
+55,NDMC,DC-001,15 kW,Self Service
+56,NDMC,DC-001,15 kW,Self Service
+57,NDMC,DC-001,15 kW,Self Service
+58,NDMC,DC-001,15 kW,Self Service
+59,CMRL,DC-001,15 kW,Self Service
+60,CMRL,AC-001,10(3.3 kW each),Self Service
+61,CMRL,DC-001,15 kW,Self Service
+62,CMRL,AC-001,10(3.3 kW each),Self Service
+63,CMRL,DC-001,15 kW,Self Service
+64,CMRL,AC-001,10(3.3 kW each),Self Service
+65,NDMC,DC-001,15 kW,Self Service
+66,NDMC,DC-001,15 kW,Self Service
+67,NDMC,DC-001,15 kW,Self Service
+68,SDMC,DC-001,15 kW,Self Service
+69,SDMC,DC-001,15 kW,Self Service
+70,SDMC,DC-001,15 kW,Self Service
+71,SDMC,DC-001,15 kW,Self Service
+72,SDMC,DC-001,15 kW,Self Service
+73,NKDA,DC-001,15 kW,Self Service
+74,NKDA,AC-001,10(3.3 kW each),Self Service
+75,NKDA,DC-001,15 kW,Self Service
+76,NKDA,AC-001,10(3.3 kW each),Self Service
+77,NKDA,DC-001,15 kW,Self Service
+78,NKDA,AC-001,10(3.3 kW each),Self Service
+79,NKDA,DC-001,15 kW,Self Service
+80,NKDA,AC-001,10(3.3 kW each),Self Service
+81,NKDA,DC-001,15 kW,Self Service
+82,NKDA,AC-001,10(3.3 kW each),Self Service
+83,NKDA,DC-001,15 kW,Self Service
+84,NKDA,AC-001,10(3.3 kW each),Self Service
+85,Noida Authority,DC-001,15 kW,Self Service
+86,Noida Authority,DC-001,15 kW,Self Service
+87,Noida Authority,DC-001,15 kW,Self Service
+88,Noida Authority,DC-001,15 kW,Self Service
+89,Noida Authority,DC-001,15 kW,Self Service
+90,Noida Authority,DC-001,15 kW,Self Service
+91,NDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+92,NDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+93,NDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+94,NDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+95,NDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+96,NDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+97,NDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+98,Noida Authority,DC-001,15 kW,Self Service
+99,Noida Authority,DC-001,15 kW,Self Service
+100,Noida Authority,DC-001,15 kW,Self Service
+101,Noida Authority,DC-001,15 kW,Self Service
+102,SDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+103,SDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+104,SDMC,DC-001,15 kW,Self Service
+105,SDMC,DC-001,15 kW,Self Service
+106,SDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+107,SDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+108,SDMC,DC-001,15 kW,Self Service
+109,SDMC,DC-001,15 kW,Self Service
+110,SDMC,DC-001,15 kW,Self Service
+111,SDMC,DC-001,15 kW,Self Service
+112,SDMC,DC-001,15 kW,Self Service
+113,SDMC,DC-001,15 kW,Self Service
+114,SDMC,DC-001,15 kW,Self Service
+115,NRANVP,DC-001,15 kW,Self Service
+116,NRANVP,DC-001,15 kW,Self Service
+117,Noida Authority,DC-001,15 kW,Self Service
+118,Noida Authority,DC-001,15 kW,Self Service
+119,Noida Authority,DC-001,15 kW,Self Service
+120,Noida Authority,DC-001,15 kW,Self Service
+121,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+122,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+123,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+124,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+125,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+126,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+127,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+128,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+129,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+130,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+131,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+132,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+133,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+134,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+135,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+136,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+137,Noida Authority,AC-001,10(3.3 kW each),Self Service
+138,Noida Authority,AC-001,10(3.3 kW each),Self Service
+139,Noida Authority,AC-001,10(3.3 kW each),Self Service
+140,Noida Authority,AC-001,10(3.3 kW each),Self Service
+141,Noida Authority,AC-001,10(3.3 kW each),Self Service
+142,Noida Authority,AC-001,10(3.3 kW each),Self Service
+143,Noida Authority,AC-001,10(3.3 kW each),Self Service
+144,SDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+145,NDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+146,NDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+147,Noida Authority,DC-001,15 kW,Self Service
+148,Noida Authority,DC-001,15 kW,Self Service
+149,CMRL,DC-001,15 kW,Self Service
+150,CMRL,DC-001,15 kW,Self Service
+151,SDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+152,SDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+153,SDMC,DC-001,15 kW,Self Service
+154,SDMC,DC-001,15 kW,Self Service
+155,SDMC,DC-001,15 kW,Self Service
+156,NDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+157,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+158,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+159,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+160,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+161,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+162,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+163,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+164,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+165,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+166,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+167,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+168,Noida Authority,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+169,ANERT,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+170,NRANVP,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+171,NRANVP,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+172,CMRL,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+173,CMRL,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+174,ANERT,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+175,NDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+176,NDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+177,NDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+178,NDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+179,NDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+180,NDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+181,NDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+182,SDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+183,SDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+184,SDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+185,SDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+186,SDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+187,SDMC,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+188,CMRL,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+189,CMRL,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+190,CMRL,DC-001,15 kW,Self Service
+191,CMRL,DC-001,15 kW,Self Service
+192,NDMC,DC-001,15 kW,Self Service
+193,NDMC,DC-001,15 kW,Self Service
+194,NKDA,AC-001,10(3.3 kW each),Self Service
+195,NKDA,AC-001,10(3.3 kW each),Self Service
+196,NKDA,DC-001,15 kW,Self Service
+197,NKDA,DC-001,15 kW,Self Service
+198,ANERT,CCS/ChADEMO/ Type 2 AC,142kW,Self Service
+199,ANERT,DC-001,15 kW,Self Service
+200,ANERT,DC-001,15 kW,Self Service
+201,ANERT,DC-001,15 kW,Self Service
+202,SDMC,DC-001,15 kW,Self Service
